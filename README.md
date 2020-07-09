@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-
-
-Here are some ideas to get you started:
+### Hi there , I am Parth Panchal 👋
 
 - 🔭 I’m currently working on hunting ideas for my next app .
 - 🌱 I’m currently learning touch typing xd .
