@@ -27,5 +27,5 @@
 <a href="https://linkedin.com/in/parthpanchal123" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parthpanchal123" height="20" width="20" /></a>
 </p>
 
-![](https://github.com/parthpanchal123/parthpanchal123/blob/master/web_screen.PNG)
+
 
