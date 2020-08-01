@@ -24,7 +24,10 @@
 <a href="https://dev.to/parthpanchal123" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="parthpanchal123" height="20" width="20" /></a>
 <a href="https://twitter.com/im_parth_24" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="im_parth_24" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/parthpanchal123" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parthpanchal123" height="20" width="20" /></a>
-</p>
+</p>  
+</br>
+</br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=parthpanchal123&show_icons=true" alt="parthpanchal123" />
 
 
