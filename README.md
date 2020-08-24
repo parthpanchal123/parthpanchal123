@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **cross platform app dev and backend management .**
 
-- 📫 How to reach me **[My Portfolio](https://parthpanchal123.github.io/profile/)**   
+- 📫 How to reach me **[My Portfolio](https://parthpanchal.me/)**   
 - ⚡ Fun fact **Would prefer chai over coffee any-day .**  
 
 
