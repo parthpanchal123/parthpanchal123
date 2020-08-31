@@ -2,9 +2,9 @@
 <h3 align="center">A simple human speaking through apps 👨‍💻</h3>
 
 
-![Twitter Follow](https://img.shields.io/twitter/follow/im_parth_24)
-  ![GitHub followers](https://img.shields.io/github/followers/parthpanchal123?logo=Github&style=flat-square)
 
+![GitHub followers](https://img.shields.io/github/followers/parthpanchal123?logo=Github&style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/im_parth_24)
 
 - 🔭 I’m currently working on **exploring other domains of technology.**
 
