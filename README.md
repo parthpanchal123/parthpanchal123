@@ -5,6 +5,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/parthpanchal123?logo=Github&style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/im_parth_24)
+![LinkedIn URL](https://img.shields.io/twitter/url?label=Connect&logo=Linkedin&logoColor=Blue&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fparthpanchal123%2F)
 
 - 🔭 I’m currently working on **exploring other domains of technology.**
 
