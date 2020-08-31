@@ -2,6 +2,10 @@
 <h3 align="center">A simple human speaking through apps 👨‍💻</h3>
 
 
+![Twitter Follow](https://img.shields.io/twitter/follow/im_parth_24)
+  ![GitHub followers](https://img.shields.io/github/followers/parthpanchal123?logo=Github&style=flat-square)
+
+
 - 🔭 I’m currently working on **exploring other domains of technology.**
 
 - 👯 I’m looking to collaborate on **open source app projects .**
@@ -24,6 +28,7 @@
 <a href="https://dev.to/parthpanchal123" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="parthpanchal123" height="20" width="20" /></a>
 <a href="https://twitter.com/im_parth_24" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="im_parth_24" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/parthpanchal123" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parthpanchal123" height="20" width="20" /></a>
+  
 </p>  
 </br>
 </br>
