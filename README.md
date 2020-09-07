@@ -2,7 +2,7 @@
 <h3 align="center">A simple human speaking through apps 👨‍💻</h3>
 
 
-
+![](https://komarev.com/ghpvc/?username=parthpanchal123)
 ![GitHub followers](https://img.shields.io/github/followers/parthpanchal123?logo=Github&style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/im_parth_24)
 [<img src="https://img.shields.io/twitter/url?color=grey&label=Connect&logo=Linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fparthpanchal123%2F">](https://www.linkedin.com/in/parthpanchal123/)
