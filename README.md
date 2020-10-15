@@ -1,3 +1,4 @@
+![](https://github.com/parthpanchal123/parthpanchal123/blob/master/my_readme.png)  
 <h1 align="center">Hi 👋, I'm Parth Panchal</h1>
 <h3 align="center">A simple human speaking through apps 👨‍💻</h3>
 
