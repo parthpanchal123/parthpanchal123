@@ -35,6 +35,9 @@
 </br>
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=parthpanchal123&show_icons=true" alt="parthpanchal123" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parthpanchal123&show_icons=true&theme=material-palenight)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
