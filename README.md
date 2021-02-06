@@ -25,9 +25,6 @@
 - 📫 How to reach me **[My Portfolio](https://parthpanchal.me/)**   
 - ⚡ Fun fact **Would prefer chai over coffee any-day .**  
 
-
-
-
 <p align="left">
 <a href="https://dev.to/parthpanchal123" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="parthpanchal123" height="20" width="20" /></a>
 <a href="https://twitter.com/im_parth_24" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="im_parth_24" height="20" width="20" /></a>
@@ -37,9 +34,12 @@
 </br>
 </br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parthpanchal123&show_icons=true&theme=material-palenight)
+![Parths's github stats](https://github-readme-stats.vercel.app/api?username=parthpanchal123&show_icons=true&theme=material-palenight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
+My Recent Blogs :  
+[![Parth Panchal's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=parthpanchal53&type=horizontal&limit=2)](https://medium.com/@parthpanchal53)
+
 
 
