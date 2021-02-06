@@ -3,7 +3,6 @@
 <h3 align="center">A simple human speaking through apps 👨‍💻</h3>
 
 [<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111465.svg?token=exp=1611654069~hmac=f1a9f39f8a47906ec6e4685352744739"  width="38" height="38">](https://www.linkedin.com/in/parthpanchal123/) 
-[<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111470.svg?token=exp=1611654351~hmac=13d352c4a8c2bbca60182ed4fa9f45cf"  width="38" height="38">](https://parthpanchal53.medium.com/) 
 [<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"  width="38" height="38">](https://dev.to/parthpanchal123)
 
 ![](https://komarev.com/ghpvc/?username=parthpanchal123)
