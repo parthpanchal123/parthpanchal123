@@ -2,8 +2,11 @@
 <h1 align="center">Hi 👋, I'm Parth Panchal</h1>
 <h3 align="center">A simple human speaking through apps 👨‍💻</h3>
 
-[<img src="https://www.flaticon.com/svg/vstatic/svg/2111/2111465.svg?token=exp=1611654069~hmac=f1a9f39f8a47906ec6e4685352744739"  width="38" height="38">](https://www.linkedin.com/in/parthpanchal123/) 
-[<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"  width="38" height="38">](https://dev.to/parthpanchal123)
+
+<a href="https://twitter.com/im_parth_24"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" height="40" width="40" style="margin-left : 10px;"></a>
+<a href="https://medium.com/@parthpanchal53"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Y8QSFYw2fTmn2wI9jPcX504ArAX9_W518g&usqp=CAU&ec=45761791" height="40" width="40" style="margin-left : 10px;"></a>
+<a href="https://www.linkedin.com/in/parthpanchal123/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013.svg" height="40" width="120" style="margin-left : 10px;"></a>
+[<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"  width="40" height="40">](https://dev.to/parthpanchal123)
 
 ![](https://komarev.com/ghpvc/?username=parthpanchal123)
 ![GitHub followers](https://img.shields.io/github/followers/parthpanchal123?logo=Github&style=flat-square)
