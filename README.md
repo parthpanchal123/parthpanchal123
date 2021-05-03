@@ -3,44 +3,29 @@
 <h3 align="center">A simple human speaking through apps 👨‍💻</h3>
 
 
-<a href="https://twitter.com/im_parth_24"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" height="40" width="40" style="margin-left : 10px;"></a>
-<a href="https://medium.com/@parthpanchal53"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Y8QSFYw2fTmn2wI9jPcX504ArAX9_W518g&usqp=CAU&ec=45761791" height="40" width="40" style="margin-left : 10px;"></a>
-<a href="https://www.linkedin.com/in/parthpanchal123/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013.svg" height="40" width="120" style="margin-left : 10px;"></a>
-[<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png"  width="40" height="40">](https://dev.to/parthpanchal123)
+## Find me here  
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" href="https://twitter.com/im_parth_24" /> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" href="https://medium.com/@parthpanchal53"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+" href="https://www.linkedin.com/in/parthpanchal123/" /> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" href="https://dev.to/parthpanchal123">
 
-![](https://komarev.com/ghpvc/?username=parthpanchal123)
-![GitHub followers](https://img.shields.io/github/followers/parthpanchal123?logo=Github&style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/im_parth_24) 
-[<img src="https://img.shields.io/twitter/url?color=grey&label=Connect&logo=Linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fparthpanchal123%2F">](https://www.linkedin.com/in/parthpanchal123/)
+## My :toolbox: 
 
-- 🔭 I’m currently working on **exploring other domains of technology.**
+- Databases 
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white">
 
-- 👯 I’m looking to collaborate on **open source app projects .**
+- App Framework
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" >
 
-- 🤔 I’m looking for help with **infrastructure management of complex structures .**
+- Web 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" > <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" ><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" > <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/parthpanchal123)
+- Operating System 
+<img src="https://img.shields.io/badge/Pop OS-FCC624?style=for-the-badge&logo=pop_os&logoColor=black">
 
-- 📝 I write articles on [Medium](https://medium.com/@parthpanchal53)
-
-- 💬 Ask me about **cross platform app dev and backend management .**
-
-- 📫 How to reach me **[My Portfolio](https://parth.is-a.dev/)**   
-- ⚡ Fun fact **Would prefer chai over coffee any-day .**  
-
-<p align="left">
-<a href="https://dev.to/parthpanchal123" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="parthpanchal123" height="20" width="20" /></a>
-<a href="https://twitter.com/im_parth_24" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="im_parth_24" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/parthpanchal123" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parthpanchal123" height="20" width="20" /></a>
-  
-</p>  
-</br>
-</br>
 
 ![Parths's github stats](https://github-readme-stats.vercel.app/api?username=parthpanchal123&show_icons=true&theme=material-palenight)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
+
 My Recent Blogs :  
 [![Parth Panchal's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=parthpanchal53&type=horizontal&limit=2)](https://medium.com/@parthpanchal53)
 
