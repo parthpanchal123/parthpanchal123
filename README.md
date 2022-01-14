@@ -1,4 +1,4 @@
-![](https://github.com/parthpanchal123/parthpanchal123/blob/master/my_readme.png)  
+<!-- ![](https://github.com/parthpanchal123/parthpanchal123/blob/master/my_readme.png)   -->
 <h1 align="center">Hi 👋, I'm Parth Panchal</h1>
 <h3 align="center">A simple human speaking through apps 👨‍💻</h3>
 
@@ -21,7 +21,9 @@
 <img src="https://img.shields.io/badge/Pop OS-FCC624?style=for-the-badge&logo=pop_os&logoColor=black"> <img alt="">
 
 
-![Parths's github stats](https://github-readme-stats.vercel.app/api?username=parthpanchal123&show_icons=true&theme=material-palenight)
+<!-- ![Parths's github stats](https://github-readme-stats.vercel.app/api?username=parthpanchal123&show_icons=true&theme=material-palenight) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parthpanchal123&theme=material-palenight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
 
